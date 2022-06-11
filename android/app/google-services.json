@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65468473729",
+    "project_id": "tanso-1f44f",
+    "storage_bucket": "tanso-1f44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65468473729:android:aae7eba190389fc06e8880",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65468473729-fbak6vtlu46efkklkeffnq53b7tf2gb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATSkMvbcidOxximsvm9P8lK5FyiQvVKvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65468473729-fbak6vtlu46efkklkeffnq53b7tf2gb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
